@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio Website</title>
+    <link rel="stylesheet" href="survay.css" />
+</head>
+<body>
+    
+    <header class="header">
+        <nav class="navbar">
+            <ul>
+                <li><a href="home.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="survay.html">Survay</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <h1 class="heading">Survay</h1>
+    
+    <div class="formdiv">
+        <form class="form">
+
+            <label for="name">Name : </label>
+            <input type="text" id="name" placeholder="Enter Your Name" required /><br><br>
+
+            <label for="email">Email : </label>
+            <input type="email" id="email" placeholder="Enter Your Email" required /><br><br>
+
+            <label for="number">Number : </label>
+            <input type="number" id="number" placeholder="Enter Your Phone Number" /><br><br>
+
+            <label for="age">Age : </label>
+            <input type="age" id="age" placeholder="Enter Your Age" min="1" max="99" required /><br><br>
+
+            <label for="gender">Gender : </label><br>
+            <input type="radio" id="male" name="gender" placeholder="Enter Your Name" required />Male<br>
+            <input type="radio" id="female" name="gender" placeholder="Enter Your Email" required />Female<br><br>
+
+            
+            <label for="checkbox">Select Your Favourite Programing Languages : </label><br>
+            <input type="checkbox" id="checkbox" name="language" required />Java<br>
+            <input type="checkbox" id="checkbox" name="language" required />Python<br>
+            <input type="checkbox" id="checkbox" name="language" required />C<br>
+            <input type="checkbox" id="checkbox" name="language" required />JavaScript<br><br>
+
+            <label for="message">Message : </label>
+            <textarea id="message" value="message" placeholder="Enter Massage Here..."></textarea><br><br>
+
+            <button type="submit">Send Survay</button>
+
+        </form>
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,100 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+}
+
+body{
+    background-image: url("Image/image3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.navbar{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.navbar ul{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    padding: 0px 20px;
+}
+
+.navbar ul li{
+    list-style: none;
+    margin: 0px 23px;
+    display: inline-block;
+}
+
+.navbar li a{
+    font-size: 18px;
+    font-weight: bold;
+    color: palevioletred;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.navbar li a:hover{
+    color: red;
+}
+
+.heading{
+    color: white;
+    text-align: center;
+    margin-top: 8vh
+}
+
+.aboutdiv{
+    margin-top: 30px;
+    margin-left: 40vh;
+    max-width: 700px;
+    height: 90%;
+}
+
+.aboutme p{
+    color:white;
+    margin-top: 10px;
+}
+
+.skill h1{
+    color: red;
+    margin-left: 50px;
+}
+
+.skill ul li{
+    color: white;
+    margin-left: 150px;
+    font-weight: bold;
+}
+
+
+.programing h1{
+    color: red;
+    margin-left: 50px;
+}
+
+.programing ul li{
+    color: white;
+    margin-left: 150px;
+    font-weight: bold;
+}
+
+
+.database h1{
+    color: red;
+    margin-left: 50px;
+}
+
+.database  ul li{
+    color: white;
+    margin-left: 150px;
+    font-weight: bold;
+}
+
+.database{
+    margin-bottom: 30px;
+}

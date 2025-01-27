@@ -1,0 +1,110 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+}
+
+body{
+    background-image: url("Image/image3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+body{
+    background-color: #081b29;
+}
+
+.navbar{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.navbar ul{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    padding: 0px 20px;
+}
+
+.navbar ul li{
+    list-style: none;
+    margin: 0px 23px;
+    display: inline-block;
+}
+
+.navbar li a{
+    font-size: 18px;
+    font-weight: bold;
+    color: palevioletred;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.navbar li a:hover{
+    color: red;
+}
+
+.heading{
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.formdiv{
+    margin-top: 35px;
+    margin-left: 33%;
+    border: 2px solid white;
+    border-radius: 50px;
+    max-width: 450px;
+    max-height: 1000px;
+    background-color: rgb(229, 32, 209);
+}
+
+.form{
+    border-radius: 50px;
+    margin-top: 20px;
+}
+
+
+.form label{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.form input{
+    border: 2px solid white;
+    background-color: black;
+    width: 250px;
+    margin-left: 30px;
+    text-align: center;
+    height: 25px;
+    border-radius: 20px;
+    color: white;
+}
+
+.form textarea{
+    border: 2px solid white;
+    background-color: black;
+}
+
+.form button{
+    text-align: center;
+    align-items: center;
+    border: 2px solid white;
+    background-color: black;
+    color: white;
+    border-radius: 50px;
+    margin-left: 180px;
+    margin-bottom: 10px;
+    height: 30px;
+    width: 100px;
+}
+
+.form button:hover{
+  color: red;
+  background-color: yellow;
+}
