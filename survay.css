@@ -114,7 +114,8 @@ body{
                 width: calc(50% - 20px); /* Two items per row on medium screens */
             }
         }
-        @media (max-width: 600px) {
+
+@media (max-width: 600px) {
             .item-card{
                 width: calc(100% - 20px);
             }
