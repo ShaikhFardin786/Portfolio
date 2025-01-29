@@ -1,3 +1,3 @@
 # `My Portfolio Website`
 
-Hello Welcome to my Portfolio website.I am created my portfolio website using HTML, CSS and Javascript.I am created this website dyanamic.Anyone can easily access my website in your mobile.I am deployed this website on github.
+Hello Welcome to my Portfolio website.I am created my portfolio website using HTML, CSS and Javascript.I am created this website dyanamic.Anyone can easily access my website in your mobile.I am deployed this website on github.I am also deployed this webite on AWS after few days.
