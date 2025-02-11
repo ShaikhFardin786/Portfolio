@@ -9,10 +9,3 @@ Hello Welcome to my Portfolio website.I am created my portfolio website using HT
 
 # `Cloud`
 - EC2 | **AWS**
-
-fardin
-shaikh
-Kalepadal 
-pune
-i am from pune.i am styud in punehehs uskeis
-gahsh
