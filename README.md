@@ -9,15 +9,3 @@ Hello Welcome to my Portfolio website.I am created my portfolio website using HT
 
 # `Cloud`
 - EC2 | **AWS**
-
-gshdj
-hello
-shaikh shaikh
-jiya
-gsujg dgdhggh
-gsydho dhjjj
-fayuj gsgdyh
-fdruhkkh fgh gdhhk
-fdruhv
-fdringg
-fdring
